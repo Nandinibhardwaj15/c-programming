@@ -52,6 +52,8 @@ int displayMenu()
     printf("\t\t\t\t ENTER YOUR CHOICE");
     scanf("\t%d", &i);
     return i;
+
+    
 }
 
 int displayBook()
