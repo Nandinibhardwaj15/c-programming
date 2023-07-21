@@ -51,9 +51,10 @@ int displayMenu()
     printf("5.EXIT\n");
     printf("\t\t\t\t ENTER YOUR CHOICE");
     scanf("\t%d", &i);
+    printf("nand");
     return i;
 
-    
+
 }
 
 int displayBook()
